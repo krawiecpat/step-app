@@ -1,0 +1,9 @@
+.move-step h4 {
+    color: blue;
+    margin-left: 185px;
+}
+
+#number {
+    width: 60px;
+    margin-left: 10px;
+}

@@ -1,0 +1,23 @@
+.step-app {
+    position: relative;
+    border: 2px solid darkblue;
+    width: 500px;
+    height: 180px;
+    left: 0;
+    right: 0;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+.step-app h4 {
+    display: inline-block;
+    margin-left: 210px;
+    font-size: larger;
+}
+
+.step-app span.value {
+    color: red;
+    margin-left: 10px;
+    font-size: larger;
+    font-weight: 600;
+}
